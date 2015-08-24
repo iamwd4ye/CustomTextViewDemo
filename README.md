@@ -1,0 +1,3 @@
+# 自定义TextView
+自定义一个TextView，继承自系统的UITextView
+实现了添加Placehoder
